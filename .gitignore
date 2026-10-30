@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.*
+deployment_portal/backend/deployments.db
+deployment_portal/frontend/node_modules/
+deployment_portal/frontend/dist/
